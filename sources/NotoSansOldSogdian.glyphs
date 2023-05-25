@@ -1,7 +1,7 @@
 {
-.appVersion = "3109";
+.appVersion = "3180";
 DisplayStrings = (
-"/uni25CC"
+"/AyinAlt.altA"
 );
 copyright = "Copyright 2022 The Noto Project Authors (https://github.com/notofonts/old-sogdian)";
 customParameters = (
@@ -135,7 +135,7 @@ code = "feature salt;\012";
 name = aalt;
 },
 {
-code = "sub u10F0C from [Lamedh.altA Lamedh.altB];\012\012sub u10F00 by Aleph.alt;\012sub u10F06 by HeFin.alt;\012sub u10F11 by Samekh.alt;\012sub u10F12 by AyinAlt.altA;\012sub u10F13 by AyinAlt.altB;\012sub u10F14 by Pe.alt;\012sub u10F15 by SadheFin.alt;\012sub u10F1A by Taw.alt;\012sub u10F1B by TawFin.alt;\012sub u10F1C by TawFinV.alt;\012";
+code = "sub u10F0C from [Lamedh.altA Lamedh.altB];\012\012sub u10F00 by Aleph.alt;\012sub u10F06 by HeFin.alt;\012sub u10F11 by Samekh.alt;\012sub u10F13 from [AyinAlt.altA AyinAlt.altB];\012sub u10F14 by Pe.alt;\012sub u10F16 by SadheFin.alt;\012sub u10F1A by Taw.alt;\012sub u10F1B by TawFin.alt;\012sub u10F1C by TawFinV.alt;\012";
 name = salt;
 },
 {
